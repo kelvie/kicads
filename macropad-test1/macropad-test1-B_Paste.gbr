@@ -1,0 +1,33 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,6.0.0-d3dd2cf0fa~116~ubuntu21.10.1*%
+%TF.CreationDate,2021-12-31T19:25:48-08:00*%
+%TF.ProjectId,macropad-test1,6d616372-6f70-4616-942d-74657374312e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 6.0.0-d3dd2cf0fa~116~ubuntu21.10.1) date 2021-12-31 19:25:48*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,2.550000X2.500000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,SW1*%
+X51290000Y-37920000D03*
+X37440000Y-40460000D03*
+%TD*%
+%TO.C,SW2*%
+X51290000Y-56335000D03*
+X37440000Y-58875000D03*
+%TD*%
+%TO.C,SW3*%
+X51290000Y-75385000D03*
+X37440000Y-77925000D03*
+%TD*%
+%TO.C,SW4*%
+X51290000Y-95070000D03*
+X37440000Y-97610000D03*
+%TD*%
+M02*

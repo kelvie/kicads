@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "thermostat-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/thermostat-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "/home/kelvie/Source/espressif-kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
+)
