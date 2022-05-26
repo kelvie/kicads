@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "thermostat")(type "KiCad")(uri "${KIPRJMOD}/thermostat-backups")(options "")(descr ""))
+)
